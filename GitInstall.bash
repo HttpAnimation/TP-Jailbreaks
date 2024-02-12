@@ -4,8 +4,8 @@ echo "======================="
 cd ~/Desktop
 mkdir TP-Jailbreks
 cd TP-Jailbreks
-git clone -b main https://github.com/HttpAnimation/TP-Jailbreks.git
+git clone -b main https://github.com/HttpAnimation/TP-Jailbreaks.git
 mv TP-Jailbreks main
-git clone -b gh-pages https://github.com/HttpAnimation/TP-Jailbreks.gi
-mv TP-Jailbreks gh-pages t
+git clone -b gh-pages https://github.com/HttpAnimation/TP-Jailbreaks.git
+mv TP-Jailbreks gh-pages 
 cd ../
